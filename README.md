@@ -7,3 +7,6 @@ Created a dashboard on Power BI to analyze the sales insight of a company. Impor
 
 ## Sales Insights Analysis Using Power BI v2
 ![image](https://user-images.githubusercontent.com/75059347/170434738-5c02186f-9bbd-4f44-ade0-ee48ad281e1a.png)
+
+
+#### [Reference Link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
